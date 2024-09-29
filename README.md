@@ -4,7 +4,7 @@ My name is Jingyun Ye. I have been a computational chemist with more than 10 yea
 
 My expertise lies in computational modeling (DFT and MD), ML, Cheminformatics, structure-property relationship development, Data-Driven material design and discovery, Material Forecasting and Manufacturing Process Improvement. 
 
- Research Interests (Ph.D--Postdoc-Professor) 
+ ***Research Interests (Ph.D--Postdoc-Professor)***
  
 •	Using state-of-the-art quantum chemistry calculations and kinetic modeling to investigate the catalyst structures, reaction mechanisms, thermodynamics and kinetics of catalytic reactions at the molecular level.
 
