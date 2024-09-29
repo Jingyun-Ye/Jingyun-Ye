@@ -2,7 +2,7 @@
 
 My name is Jingyun Ye. I have been a computational chemist with more than 10 years’ experience in advanced material design and development; I have 4 years data science experience in ML models development for material performance prediction. 
 
-My expertise lies in computational modeling, ML, Cheminformatics, structure-property relationship development, Data-Driven material design and discovery, Material Forecasting and Manufacturing Process Improvement. 
+My expertise lies in computational modeling (DFT and MD), ML, Cheminformatics, structure-property relationship development, Data-Driven material design and discovery, Material Forecasting and Manufacturing Process Improvement. 
 
  Research Interests (Ph.D--Postdoc-Professor) 
  
