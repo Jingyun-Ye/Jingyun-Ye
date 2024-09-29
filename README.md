@@ -10,7 +10,7 @@ My expertise lies in computational modeling (DFT and MD), ML, Cheminformatics, s
 
 • Computationally designed a functionalized porous material which integrate the CO2 capture and conversion processes in a single material. This design was validated by multiple experimental groups. (ACS Catalysis 5 (5), 2921-2928, ACS Catalysis 5 (10), 6219-6229, Catalysis Science & Technology 6 (24), 8392-8405)
 
-• Developed the first computational database of a family of metal free catalysts, which is called frustrated lewis pair. I combined machine learning for metal free catalysts discovery through large-scale computational screening. (Screening the activity of Lewis pairs for hydrogenation of CO2, )
+• Developed the first computational database of a family of metal free catalysts, which is called frustrated lewis pair. I combined machine learning for metal free catalysts discovery through large-scale computational screening. (https://jingyun-ye.github.io/FLPDB/ )
 
  ***Research Interests (Ph.D--Postdoc-Professor)***
  
