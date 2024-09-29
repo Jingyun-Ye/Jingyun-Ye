@@ -1,5 +1,7 @@
 **Jingyun Ye (Ph.D in Chemical Engineering)**
 
+https://jingyun-ye.github.io/Jingyun-Ye/index.html
+
 (updated 09/2024)
 
 My name is Jingyun Ye. I have been a computational chemist with more than 10 years’ experience in advanced material design and development; I have 4 years data science experience in ML models development for material performance prediction. 
