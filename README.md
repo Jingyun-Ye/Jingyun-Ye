@@ -4,6 +4,14 @@ My name is Jingyun Ye. I have been a computational chemist with more than 10 yea
 
 My expertise lies in computational modeling (DFT and MD), ML, Cheminformatics, structure-property relationship development, Data-Driven material design and discovery, Material Forecasting and Manufacturing Process Improvement. 
 
+***My Key Achievements***
+
+•	In the past, I computationally developed a catalyst for converting CO2 to methanol, which has been validated by experiment that shows 100% selectivity and over 1000 hrs stability, 10 times more stable than the commercial catalyst. 
+
+•	I computationally designed a functionalized porous material which integrate the CO2 capture and conversion processes in a single material. This design was validated by multiple experimental groups.   
+
+• I created the first computational database of a family of metal free catalysts, which is called frustrated lewis pair. I combined machine learning for metal free catalysts discovery through large-scale computational screening.
+
  ***Research Interests (Ph.D--Postdoc-Professor)***
  
 •	Using state-of-the-art quantum chemistry calculations and kinetic modeling to investigate the catalyst structures, reaction mechanisms, thermodynamics and kinetics of catalytic reactions at the molecular level.
