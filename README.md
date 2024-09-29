@@ -1,4 +1,4 @@
-## About Me👋
+## Ye Research👋
 
 <!--
 **Jingyun-Ye/Jingyun-Ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
